@@ -1,0 +1,27 @@
+{
+  "name": "online-judge",
+  "version": "1.0.0",
+  "description": "Online Judge",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyashsrv7/online-judge.git"
+  },
+  "keywords": [
+    "online",
+    "judge"
+  ],
+  "author": "suyash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyashsrv7/online-judge/issues"
+  },
+  "homepage": "https://github.com/suyashsrv7/online-judge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shelljs": "^0.8.3"
+  }
+}
