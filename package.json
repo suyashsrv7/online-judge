@@ -21,7 +21,12 @@
   },
   "homepage": "https://github.com/suyashsrv7/online-judge#readme",
   "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "bcrypt": "^3.0.7",
+    "config": "^3.2.4",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.13",
     "shelljs": "^0.8.3"
   }
 }
