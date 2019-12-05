@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const userController = require('../contollers/user');
+const codeRunner = require("../contollers/codeRunner");
 const authGaurd = require('../middlewares/auth');
 
 router.get('/test', (req, res) => {
@@ -7,5 +8,8 @@ router.get('/test', (req, res) => {
 })
 router.post('/signup', userController.signUp);
 router.post('/login', userController.login);
+
+router.post('/runcode', codeRunner.run);
+
 
 module.exports = router;
