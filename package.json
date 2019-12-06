@@ -29,13 +29,9 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.13",
-<<<<<<< HEAD
     "request": "^2.88.0",
-=======
     "node-html-parser": "^1.1.16",
-    "request": "^2.88.0",
     "request-promise": "^4.2.5",
->>>>>>> 4d6b7be50bec2a31c48b54e1dbf6e48a1b01ac2a
     "shelljs": "^0.8.3"
   }
 }
