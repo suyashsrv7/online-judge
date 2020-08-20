@@ -22,7 +22,7 @@
   "homepage": "https://github.com/suyashsrv7/online-judge#readme",
   "dependencies": {
     "@hapi/joi": "^16.1.8",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "cheerio": "^1.0.0-rc.3",
     "compile-run": "^2.3.2",
     "config": "^3.2.4",
